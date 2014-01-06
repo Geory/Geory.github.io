@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Malasthel's Blog]]></title>
+  <link href="git@github.com:Geory/Geory.github.io.git/atom.xml" rel="self"/>
+  <link href="git@github.com:Geory/Geory.github.io.git/"/>
+  <updated>2014-01-06T22:03:56+08:00</updated>
+  <id>git@github.com:Geory/Geory.github.io.git/</id>
+  <author>
+    <name><![CDATA[Geory]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
