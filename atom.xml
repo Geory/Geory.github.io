@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Malasthel's Blog]]></title>
+  <title><![CDATA[微尘之地]]></title>
   <link href="https://github.com/Geory/Geory.github.io/atom.xml" rel="self"/>
   <link href="https://github.com/Geory/Geory.github.io/"/>
-  <updated>2014-01-06T23:15:42+08:00</updated>
+  <updated>2014-01-07T11:28:45+08:00</updated>
   <id>https://github.com/Geory/Geory.github.io/</id>
   <author>
     <name><![CDATA[Geory]]></name>
