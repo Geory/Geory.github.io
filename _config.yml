@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: https://github.com/Geory/Geory.github.io
-title: Malasthel's Blog
+title: 微尘之地
 subtitle: Make your life a story worth telling.
 author: Geory
 simple_search: http://google.com/search
@@ -94,3 +94,7 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# duoshuo comments
+duoshuo_comments: true
+duoshuo_short_name: geory
